@@ -3,7 +3,6 @@ package by.epam.ayem.javafundamentals.main;
 import java.util.Scanner;
 
 //1. Приветствовать любого пользователя при вводе его имени через командную строку.
-//New line
 
 /**
  * @author Aleh Yemelyanchyk on 11/8/2019.
